@@ -25,8 +25,7 @@
   display: block;
   color: var(--black200);
 }
-.header__nav {
-}
+
 .header__nav li {
   display: inline;
 }
